@@ -122,13 +122,13 @@
 // let er = getPixelSimpleColor(1, 1);
 // console.log(er);
 
-// function example() {
-//   document.write(
-//     "<p>ceci est une instruction appartenant a la fonction <em>exemple</em></p>"
-//   );
-// }
+function example() {
+  document.write(
+    "<p>ceci est une instruction appartenant a la fonction <em>exemple</em></p>"
+  );
+}
 
-// example();
+example();
 
 // function presCandidat(prenom, age, profession) {
 //   document.write("<h2>bienvenue a ", prenom, "</h2>");
